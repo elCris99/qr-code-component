@@ -5,6 +5,7 @@
   --max-width: #{$container-max-width};
 
   width: min(100% - var(--padding), var(--max-width));
+  height: 100vh;
   margin-inline: auto;
 }
 
