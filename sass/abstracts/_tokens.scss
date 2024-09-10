@@ -6,8 +6,8 @@ $active-theme: $light;
 $enable-media-query-dark-mode: false;
 
 // Contextual
-$color-text-default: $clr-slate-500;
-$color-background-default: $clr-slate-300;
+$color-text-default: $color-neutral-500;
+$color-background-default: $color-primary-100;
 $color-text-interactive-default: $color-accent-400;
 $color-text-interactive-hover: $color-accent-500;
 
@@ -44,7 +44,7 @@ $link-color: $color-text-interactive-default;
 $link-color-hover: $color-text-interactive-hover;
 
 $heading-font-family: $font-family-accent;
-$heading-color-default: $clr-slate-900;
+$heading-color-default: $color-neutral-900;
 $heading-font-weight: $font-weight-bold;
 $heading-letter-spacing: $letter-spacing-loose;
 $heading-line-height: 1.2;
